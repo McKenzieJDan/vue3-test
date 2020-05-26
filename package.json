@@ -5,10 +5,10 @@
     "build": "webpack --env.prod"
   },
   "dependencies": {
-    "vue": "3.0.0-beta.12"
+    "vue": "3.0.0-beta.14"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "3.0.0-beta.12",
+    "@vue/compiler-sfc": "3.0.0-beta.14",
     "copy-webpack-plugin": "6.0.1",
     "css-loader": "3.5.3",
     "file-loader": "6.0.0",
